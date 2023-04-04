@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moax101
 - 👀 I’m interested in creating game
-- 🌱 I’m currently learning php, html, C#(begginer but can be trained), c++(doesnt have much knowledge)
+- 🌱 I’m currently learning php/laravel, html, C#(begginer but can be trained), c++(moderate)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on my gmail hmoax123@gmail.com
 
